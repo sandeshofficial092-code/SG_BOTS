@@ -33,7 +33,7 @@ from telegram.error import BadRequest, Forbidden, TelegramError
 # CONFIGURATION
 # ==============================================================================
 # ⚠️ REPLACE WITH YOUR TOKEN
-BOT_TOKEN = "8732174536:AAHy_bXzPtkpVoFSz2krnfuHa_Sk-emC0_c" 
+BOT_TOKEN = "8770377683:AAHWIbyGGCfh23LMC9Lk90bfTfEd8hRv9B0" 
 
 # ⚠️ REPLACE WITH YOUR ADMIN IDs
 ADMIN_IDS = [8344443883] 
